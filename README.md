@@ -1,15 +1,9 @@
-# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
+## AI MED SCANNER
 
-This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
+![Image description](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtQ9nbsyOXDoqoZ5fzPx8f_d0O6vpHqeqJrNdMwpkBHgbw9CJf)
 
-The sample app described here is up at https://fastai-v3.onrender.com. Test it out with bear images!
+AI classifier using Convolutional Neural Networks and Transfer Learning 
 
-You can test your changes locally by installing Docker and using the following command:
-
-```
-docker build -t fastai-v3 . && docker run --rm -it -p 5000:5000 fastai-v3
-```
-
-The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html.
-
-Please use [Render's fast.ai forum thread](https://forums.fast.ai/t/deployment-platform-render/33953) for questions and support.
+. PyTorch
+. FastAI
+. Render
