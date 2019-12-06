@@ -42,24 +42,24 @@ body {
 
 button.choose-file-button {
     width: 200px;
-    height: 60px;
+    height: 40px;
     border-radius: 4px;
     background-color: #ffffff;
     border: solid 1px #7052CB;
-    font-size: 40px;
+    font-size: 30px;
     color: #7052CB;
 }
 
 button.analyze-button {
     width: 200px;
-    height: 60px;
+    height: 40px;
     border: solid 1px #7052CB;
     border-radius: 4px;
     background-color: #7052CB;
-    font-size: 40px;
+    font-size: 30px;
     color: #ffffff;
 }
 
 button:focus {
-    outline: 1;
+    outline: 0;
 }
